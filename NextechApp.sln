@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextechApp", "NextechApp\NextechApp.csproj", "{5B27865C-D195-4EEF-B36A-1D53B40F17FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextechApp.Tests", "NextechApp.Tests\NextechApp.Tests.csproj", "{51878F09-CCF1-476B-9AB7-3CCEB03DE52A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B27865C-D195-4EEF-B36A-1D53B40F17FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B27865C-D195-4EEF-B36A-1D53B40F17FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B27865C-D195-4EEF-B36A-1D53B40F17FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B27865C-D195-4EEF-B36A-1D53B40F17FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51878F09-CCF1-476B-9AB7-3CCEB03DE52A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51878F09-CCF1-476B-9AB7-3CCEB03DE52A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51878F09-CCF1-476B-9AB7-3CCEB03DE52A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51878F09-CCF1-476B-9AB7-3CCEB03DE52A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01813518-8FB2-42F4-A0A4-823CDBCDA068}
+	EndGlobalSection
+EndGlobal
